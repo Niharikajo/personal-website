@@ -1,0 +1,196 @@
+
+h1{
+    
+   margin: 100px auto 0 auto;
+   font-family: 'Charmonman', cursive;
+   font-size: 3.5rem; /* em- adds up upon font size in its parent (like body), rem- it takes the given value irrespective of parent font size*/
+   color: #06bfa6; 
+}
+
+
+h2{
+    font-family: 'Ruda', sans-serif;
+    margin: 0px;
+    color:#66BFBF;
+    margin: 20px;
+   
+    
+}
+
+h3{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #119e66;
+    
+}
+
+body{
+    margin:0px;
+    text-align: center;
+   
+    
+}
+
+a{
+    color:#11999E;
+}
+
+.intro{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.5rem;
+    
+}
+
+.text{
+    font-family: 'EB Garamond', serif;
+    
+}
+
+.icons{
+    padding-top: 25px;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.top-container{
+    background-color: #DAF5FF;
+    padding: 50px;
+    
+       
+    
+}
+
+/*
+.c1{
+    position: relative(right moves left);, absolute(right moves right), fixed(div remains on top of page even ehrn scrolled)
+    top: 50px;
+    left:100px;
+}
+*/
+
+.c2{
+    position: absolute;
+    left: 150px;
+    bottom:300px;
+}
+
+.c1{
+    position: absolute;
+    right:150px;
+    top:100px;
+   
+}
+
+
+.small-icons1{
+    padding: 10px;
+    height: 40px;
+    width: 40px;
+    float: left;
+    
+}
+
+.small-icons2{
+    padding: 10px;
+    height: 40px;
+    width: 40px;
+    float: right;
+    
+}
+
+
+
+hr{
+    border-style: none;
+    border-top-style:  dotted ;
+    border-color: #F7F5EB;
+    border-width: 5px;
+    width: 5%;
+    border-color: rgb(107, 150, 244);
+    margin: 50px auto;
+
+}
+
+
+
+#subtitle{
+    font-weight: bold ;
+    color: #62B6B7;
+}
+
+.skill-row1{
+    width: 50%;
+    margin: 50px auto ; 
+    text-align: left;
+    margin-top: 0;
+    
+    
+}
+
+.skill-row2{
+    width: 50%;
+    margin: 50px auto ; 
+    text-align: right;
+    margin-top: 0;
+    
+}
+
+.skill{
+    padding-top: 13px;
+}
+
+.bottom-container{
+    background-color: #DFFFD8 ;
+    padding: 25px 0 0 0;
+}
+
+.btn {
+    background: #73E4A5;
+    background-image: -webkit-linear-gradient(top, #73E4A5, #0E812B);
+    background-image: -moz-linear-gradient(top, #73E4A5, #0E812B);
+    background-image: -ms-linear-gradient(top, #73E4A5, #0E812B);
+    background-image: -o-linear-gradient(top, #73E4A5, #0E812B);
+    background-image: -webkit-gradient(to bottom, #73E4A5, #0E812B);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: Brush Script MT;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 6px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 10px auto 25px auto;
+ }
+ 
+ .btn:hover {
+    border: solid #44540B 1px;
+    background: #D1E869;
+    background-image: -webkit-linear-gradient(top, #D1E869, #869A0A);
+    background-image: -moz-linear-gradient(top, #D1E869, #869A0A);
+    background-image: -ms-linear-gradient(top, #D1E869, #869A0A);
+    background-image: -o-linear-gradient(top, #D1E869, #869A0A);
+    background-image: -webkit-gradient(to bottom, #D1E869, #869A0A);
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    text-decoration: none;
+ }
+
+ #c{
+    padding: 20px 0 0 0 ;
+    margin: 0;
+ }
+
+ .footer-link{
+    padding: 10px;
+ }
