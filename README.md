@@ -4,4 +4,4 @@
 - CSS custom properties
 
 ### Links
-- Live Site URL: [Add live site URL here](https://niharikajo.github.io/personal-website/)
+- Live Site URL: [personal-website](https://niharikajo.github.io/personal-website/)
